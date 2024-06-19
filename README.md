@@ -9,6 +9,6 @@
 
 ### 📚 Um pouco dos meus conhecimentos:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25px"/>
           
 
