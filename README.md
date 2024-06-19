@@ -10,7 +10,7 @@
 </a></p>    
 </div>
 
-#### 📚 Um pouco dos meus conhecimentos:
+#### 📚 Um pouco dos meus conhecimentos...
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px"/>
 <img width="8" />
