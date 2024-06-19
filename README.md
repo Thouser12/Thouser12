@@ -4,6 +4,7 @@
 #### 📫 Entre em contato comigo pelo seguinte email:
 - pflugthomas04@gmail.com
 #### 💼 Conecte-se comigo no LinkedIn!
+<img width="10" />
 <p><a href="https://www.linkedin.com/in/thomas-pflug-95549a241/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40px"/>
 </a></p>    
