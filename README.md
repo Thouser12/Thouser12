@@ -11,12 +11,15 @@
 #### 📚 Um pouco dos meus conhecimentos:
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px"/>
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px"/>
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px"/>
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px" />
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40px"/>
           
-![image](https://github.com/Thouser12/Thouser12/assets/147556151/464cf2f2-e229-4468-b528-e78975cbd7a2)
 </div>
 
           
