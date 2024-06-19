@@ -5,8 +5,8 @@
 - pflugthomas04@gmail.com
 #### 💼 Conecte-se comigo no LinkedIn!
 <div align="left">
-<img width="10" />
 <p><a href="https://www.linkedin.com/in/thomas-pflug-95549a241/">
+<img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40px"/>
 </a></p>    
 </div>
