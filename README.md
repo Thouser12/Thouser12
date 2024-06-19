@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou o Thomas!
 #### 👀 Eu tenho interesse nas mais diversas áreas de tecnologia.
-#### 🌱 Eu estou atualmente estudando a graduação sistemas de informação.
+#### 🌱 Eu estou atualmente cursando a graduação de sistemas de informação.
 #### 📫 Entre em contato comigo pelo seguinte email:
 - pflugthomas04@gmail.com
 #### 💼 Conecte-se comigo no LinkedIn!
