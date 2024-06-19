@@ -5,7 +5,7 @@
 - pflugthomas04@gmail.com
 ### 💼 Conecte-se comigo no LinkedIn!
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5EAAE8&color:FFF)]([https://www.linkedin.com/in/acnaweb/](https://www.linkedin.com/in/thomas-pflug-95549a241/)) 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5EAAE8&color:FFF)]([https://www.linkedin.com/in/acnaweb/](https://www.linkedin.com/in/thomas-pflug-95549a241/)) 
 
 
 
